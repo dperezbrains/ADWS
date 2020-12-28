@@ -19,5 +19,12 @@
       "category":"alta",
       "title":"Nuevos miembres",
       "description":"Desde hoy se incorporan como miembres de pleno derecho Don José María y Echedey Lobezno"
+   },
+     {
+      "id":"-1",
+      "date":"30/06/2020",
+      "category":"news",
+      "title":"Sí pero no",
+      "description":"Hoy es un día triste en nuestra comunidad ya que nuestro querido Víctor deja el centro. Sin embargo, tras votación popular, se ha decidido que siga siendo un Kuko por su categoría de miembro fundador y proveedor de innumerables memes"
    }
 ]
