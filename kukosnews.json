@@ -1,10 +1,10 @@
 [
    {
       "id":"2",
-      "date":"24/12/2020",
-      "category":"news",
-      "title":"Más",
-      "description":"Apasionado de las powerbank"
+      "date":"15/12/2020",
+      "category":"baja",
+      "title":"Hasta luego",
+      "description":"Nuestro compañero X es baja"
    },
    {
       "id":"1",
@@ -12,5 +12,12 @@
       "category":"news",
       "title":"Bienvenidos",
       "description":"Hoy es un gran día para nuestra comunidad. Hemos lanzado oficialmente la kuko app, tu nuevo lugar de encuentro para estar en contacto con tus compañeros"
+   },
+      {
+      "id":"0",
+      "date":"15/10/2020",
+      "category":"alta",
+      "title":"Nuevos miembres",
+      "description":"Desde hoy se incorporan como miembres de pleno derecho Don José María y Echedey Lobezno"
    }
 ]
